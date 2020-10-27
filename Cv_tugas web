@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>cv fajar nofrian_sttnf</title>
+	</head>
+	<body>
+	    <body bgcolor="lavender">
+	  	<h1 align="center">curiculum vitae</h1>
+        </hr>
+       <img  src="1595132350087.jpg" alt = "foto fajar">
+        </hr> 
+        <h2><hr>moto hidup</h2></hr>
+        <p>menjadi diri sendiri ,tidak pernah menyerah,dan lakukan yang terbaik atau tidak sama sekali</p>
+        
+        <h2><hr>Biodata</h2></hr>
+        </hr>
+        <ol>
+        <pre>
+        <li>Nama                :Fajar nofrian syhaputra</p>
+        <li>Tempat,tanggal lahir:Lubuk sikaping,29 november 2000</p>
+        <li>Umur                :20 Tahun</p>
+        <li>Jenis kelamin       :Laki-Laki</p>
+        <li>Alamat              :Jalan R.A.Kartini,no.29</p>
+        <li>Hobi                :Sepak Bola</p>
+        <li>Github              :<a href="">http://github.com/fjarnofrian</a></p>
+        </pre>
+        </ol>
+        <h2><hr>Riwayat Pendidikan</h2></hr>
+        <table border="1"/>
+           <th>pendidikan</th>
+            <th>periode</th>
+            <tr>
+                <td>SDN 26 Kampung Taji,Kab.Pasaman,Sumatera Barat</td><td>2008-2014</td>
+            </tr>
+            <tr>
+                <td>SMPN 1 Lubuk Sikaping,Kab.Pasaman,Sumatra Barat</td><td>2015-2017</td>
+            </tr>
+            <tr>
+                <td>SMAN 1 Lubuk Sikaping,Kab.Pasaman,Sumatra Barat</td><td>2018-2020</td>
+            <tr>
+            </td>
+        </table>
+    </body>
+</html>
